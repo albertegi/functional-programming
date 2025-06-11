@@ -15,6 +15,6 @@ public class IteratingThroughAList {
                 "Sara",
                 "Scott");
 
-        friends.forEach(name-> System.out.println(name));
+        friends.forEach(System.out::println);
     }
 }
