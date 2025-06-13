@@ -13,7 +13,8 @@ public class TransformingAList {
                 "Neal",
                 "Raju",
                 "Sara",
-                "Scott");
+                "Scott",
+                "Regina");
 
 
         friends.stream()
